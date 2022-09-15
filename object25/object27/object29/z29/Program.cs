@@ -12,4 +12,4 @@ void PrintArray(int[] arr) {
     }
 }
 
-PrintArray(GetArray());/
+PrintArray(GetArray());
