@@ -12,6 +12,6 @@ int Exponent(int A, int B) {
     return result;
 }
 int exponent = Exponent( A, B);
-System.Console.WriteLine($"Число А в степени В равно: " + exponent);
+System.Console.WriteLine($"Число А в степени В равно: {exponent}");
 
 
